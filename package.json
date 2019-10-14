@@ -1,0 +1,30 @@
+{
+  "name": "express-mini",
+  "version": "1.0.0",
+  "description": "Implementation of express using native JavaScript",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node ./examples/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacker0limbo/express-mini.git"
+  },
+  "files": [
+    "README.md",
+    "index.js",
+    "lib/",
+    "examples/"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hacker0limbo/express-mini/issues"
+  },
+  "homepage": "https://github.com/hacker0limbo/express-mini#readme"
+}

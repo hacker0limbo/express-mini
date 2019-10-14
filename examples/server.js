@@ -1,7 +1,6 @@
-const express = require('./lib/express.js')
+const express = require('../lib/express.js')
 
 const app = express()
-
 
 // 路由也是一种中间件
 // 结构为 路径 /  对应是 get 方法和一系列的处理函数
